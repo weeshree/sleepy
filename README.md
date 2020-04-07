@@ -1,6 +1,9 @@
 # sleepy
 IoT device that revolutionizes your sleep in countless ways
 
+## Watch the video!
+https://photos.app.goo.gl/mEqhKrbQaX6vw3YB7
+
 ## important features:
 
 ### fan operation
