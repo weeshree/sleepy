@@ -11,3 +11,6 @@ Using a microphone connected to the ESP32, the device uses a 3-clap signal to in
 
 ### sound/light/temperature tracking
 As an added feature, the ESP32 also has connected a thermoresistor and photoresistor (in addition to the microphone) for recording sound/light/temperature levels (or more accurately disturbances) throughout the night. Data is again stored in a SQL database.
+
+### wake up light
+Alarms are annoying. Even an alarm clock is suboptimal in that seeing that time on the clock can make one anxious. So, this device has a simple red light signal which the user can set to turn on at a given time, or even a set amount of hours after they fall asleep. That way, if you wake up and you don't see the light, you can go back to sleep peacefully without worrying about how many hours you've gotten so far or what not. And, when you do wake up on your own terms and see that red light, you know it's time to start your day.
